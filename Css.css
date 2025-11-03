@@ -1,0 +1,59 @@
+p{
+  Color: grey;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+body{
+  background-color: cornsilk;
+  
+}
+
+.hi{
+  background-color: lightgrey;
+}
+
+img{
+  border:solid ;
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+  opacity: 0.3;
+  
+}
+img:hover{
+  opacity: 1;
+  transition-duration: 1s;
+}
+
+video{
+  border-radius: 50px;
+  background-color: aqua;
+}
+
+.pi{
+  width: 550px;
+}
+
+
+input{
+  border-radius: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
